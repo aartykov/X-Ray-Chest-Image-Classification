@@ -4,7 +4,7 @@ In this project, I tried to solve the problem of medical image classification wi
 
 <p align="center">
   <img src="https://github.com/artykov1511/X-Ray-Chest-Image-Classification/blob/main/images/new.png" width="350" title="hover text">
-<img src="https://github.com/artykov1511/X-Ray-Chest-Image-Classification/blob/main/images/new.png" width="350" alt="accessibility text">  
+ 
 </p>
 
 
