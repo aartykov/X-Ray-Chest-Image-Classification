@@ -7,7 +7,7 @@ In this project, I tried to solve the problem of medical image classification wi
  
 </p>
 
-In this project, I followed three different approaches. First, I created my own architecture and trained it from scratch. Then I adopted transfer learning method and adapted pre-trained ResNet and InceptionNet architectures to my problem. Some of the training images are given as follows,
+Briefly, I followed three different approaches. First, I created my own architecture and trained it from scratch. Then I adopted transfer learning method and adapted pre-trained ResNet and InceptionNet architectures to my problem. Some of the training images are given as follows,
 
 <p align="center">
   <img src="https://github.com/artykov1511/X-Ray-Chest-Image-Classification/blob/main/images/1-s2.0-S1684118220300682-main.pdf-003-b1.png" width="400" title="hover text">
