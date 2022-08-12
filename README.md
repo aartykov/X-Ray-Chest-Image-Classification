@@ -12,7 +12,7 @@ In this project, I followed three different approaches. First, I created my own 
 <p align="center">
   <img src="https://github.com/artykov1511/X-Ray-Chest-Image-Classification/blob/main/images/1-s2.0-S1684118220300682-main.pdf-003-b1.png" width="400" title="hover text">
   
-  <img src="" width="400" title="hover text">
+  <img src="https://github.com/artykov1511/X-Ray-Chest-Image-Classification/blob/main/images/IM-0001-0001.jpeg" width="400" title="hover text">
   
  
 </p>
